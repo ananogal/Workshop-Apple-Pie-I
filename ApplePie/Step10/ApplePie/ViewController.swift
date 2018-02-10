@@ -11,9 +11,6 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBOutlet weak var treeImageView: UIImageView!
-    @IBOutlet var letterButtons: [UIButton]!
-    @IBOutlet weak var wordLabel: UILabel!
-    @IBOutlet weak var scoreLabel: UILabel!
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -23,3 +20,4 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
     }
 }
+
