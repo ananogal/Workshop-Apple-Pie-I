@@ -8,7 +8,7 @@ The SwiftLanguage.playground has the final version of the playground done in the
 
 ## Apple Pie
 <p align="center">
-<img width="338" height="600" src="https://github.com/ananogal/Workshop-Apple-Pie-I/blob/master/ApplePie.png">
+<kbd><img width="338" height="600" src="https://github.com/ananogal/Workshop-Apple-Pie-I/blob/master/ApplePie.png"></kbd>
 </p>
 
 In this word-guessing game, the player has a limited number of turns to guess the letters in a word. Each incorrect guess results in an apple falling off the tree. The player wins by guessing the word correctly before all the apples are gone.
